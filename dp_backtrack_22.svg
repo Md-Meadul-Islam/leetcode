@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" height="1160.0000000000002pt" width="1429.9999999999998pt" viewBox="-44.99999999999994 -113 1437.9999999999998 1166.0000000000002"><defs><style type="text/css">
+        @font-face {
+            font-family: 'lt_bold';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-bold-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-bold-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_bold_italic';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-bolditalic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-bolditalic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_italic';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-italic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-italic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_regular';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt-hairline';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/lt-hairline-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/lt-hairline-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt-thinitalic';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/lt-thinitalic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/lt-thinitalic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'champagne';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/champagne-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/champagne-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'indie';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/indie-flower-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/indie-flower-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'bebas';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/bebasneue_regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/bebasneue_regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'bree';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/breeserif-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/breeserif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'spartan';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/leaguespartan-bold-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/leaguespartan-bold-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'montserrat';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/montserrat-medium-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/montserrat-medium-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'open_sanscondensed';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/opensans-condlight-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/opensans-condlight-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'open_sansitalic';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/opensans-italic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/opensans-italic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'playfair';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/playfairdisplay-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/playfairdisplay-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'raleway';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/raleway-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/raleway-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'courier_prime';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/courier_prime-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/courier_prime-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'droid_serifregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/droid-serif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'abhaya_libreregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/abhaya-libre-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'gandhi_serifregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/gandhi-serif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        p {
+            margin: 0;
+        }
+        </style></defs><defs><style>
+            span{ display: inline-block; }
+        </style></defs><g id="obgaqtqkePh"><g transform="translate(330.0000000000001 -110)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(353.9843750000001, -87) rotate(0, 26.015625, 27)" width="52.03125" height="54"><text text-decoration="none" x="0.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="14">it&#160;</text><text text-decoration="none" x="11.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="14">is&#160;</text><text text-decoration="none" x="23.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="14">for&#160;</text><text text-decoration="none" x="43.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="14">3&#160;</text><text text-decoration="none" x="12.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="32">pairs</text><text text-decoration="none" x="39.515625" style="fill: #4b4b4b; font:  10pt lt_regular" y="32"></text><text text-decoration="none" x="26.015625" style="fill: #4b4b4b; font:  10pt lt_regular" y="51"></text></g></g><g id="gTYyX6YE4Eq"><g transform="translate(140.0000000000001 90.00000000000003)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(181.4687500000001, 96.00000000000003) rotate(0, 8.53125, 44)" width="17.0625" height="88"><text text-decoration="none" x="0.03125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(</text><text text-decoration="none" x="17.03125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="rFyDQ8zdguZ"><g transform="translate(1160 250)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1192.9375, 256) rotate(0, 17.0625, 44)" width="34.125" height="88"><text text-decoration="none" x="0.0625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()</text><text text-decoration="none" x="34.0625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="t8fcA5FYYL3"><g transform="translate(20 270.00000000000006)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(52.9375, 276.00000000000006) rotate(0, 17.0625, 44)" width="34.125" height="88"><text text-decoration="none" x="0.0625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">((</text><text text-decoration="none" x="34.0625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="n2EPXb0Ub9J"><g><path d="M 330,-60 L 200.0000000000001,-60 Q 190.0000000000001,-60 190.0000000000001,-50 L 190,90" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="3CouZ4qmjjc"><g><path d="M 140,140 L 80,140.00000000000003 Q 70,140.00000000000003 70,150.00000000000003 L 70,270" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="Im3BZj2DaV0"><g><path d="M 240,140 L 1200,140.00000000000003 Q 1210,140.00000000000003 1210,150.00000000000003 L 1210,250" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="SOsNGmkRgCz"><g transform="translate(-39.99999999999994 460)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(-15.59374999999994, 466) rotate(0, 25.59375, 44)" width="51.1875" height="88"><text text-decoration="none" x="0.09375" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(((</text><text text-decoration="none" x="51.09375" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="ztA15gAi51C"><g transform="translate(309.9999999999999 460)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(334.4062499999999, 466) rotate(0, 25.59375, 44)" width="51.1875" height="88"><text text-decoration="none" x="0.09375" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(()</text><text text-decoration="none" x="51.09375" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="CKkATLlzhhp"><g><path d="M 360,460 L 359.9999999999999,330.00000000000006 Q 359.9999999999999,320.00000000000006 349.9999999999999,320.00000000000006 L 120,320" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="0z1Os8kjsj4"><g><path d="M 10,460 L 10.000000000000053,330.00000000000006 Q 10.000000000000057,320.0000000000001 20,320" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="4qfuqwVY7Ud"><g transform="translate(20 630)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(35.875, 636) rotate(0, 34.125, 44)" width="68.25" height="88"><text text-decoration="none" x="0.125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">((()</text><text text-decoration="none" x="68.125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="5ze6dSdQf3r"><g><path d="M 70,635 L 70.4108740144407,519.9999361755569 Q 70.44660194174753,510 60.44660194174753,510 L 60,510" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="vcfhCnifhfu"><g transform="translate(140.0000000000001 780)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(147.3437500000001, 786) rotate(0, 42.65625, 44)" width="85.3125" height="88"><text text-decoration="none" x="0.15625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">((())</text><text text-decoration="none" x="85.15625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="ArSJi56Yjj5"><g><path d="M 190,780 L 190.0000000000001,690 Q 190.0000000000001,680 180.0000000000001,680 L 120,680" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="wSAPsYRXZEw"><g transform="translate(230.0000000000001 930)"><ellipse cx="60.00000000000008" cy="60.00000000000008" rx="60.00000000000008" ry="60.00000000000008" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(238.81250000000023, 946.0000000000001) rotate(0, 51.1875, 44)" width="102.375" height="88"><text text-decoration="none" x="0.1875" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">((()))</text><text text-decoration="none" x="102.1875" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="1nwKBTKwnoP"><g><path d="M 240,830 L 280.0000000000002,830 Q 290.0000000000002,830 290.0000000000002,840 L 290,930" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="3VfoeeYFkvU"><g transform="translate(300 630.0000000000001)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(315.875, 636.0000000000001) rotate(0, 34.125, 44)" width="68.25" height="88"><text text-decoration="none" x="0.125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(()(</text><text text-decoration="none" x="68.125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="7T8L2oAtf0p"><g transform="translate(740 620)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(755.875, 626) rotate(0, 34.125, 44)" width="68.25" height="88"><text text-decoration="none" x="0.125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(())</text><text text-decoration="none" x="68.125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="F4WaFZvCjtJ"><g><path d="M 350,630 L 350,620.0000000000001 Q 350,610.0000000000001 340,610.0000000000001 L 320,610 L 299.9999999999999,610.0000000000001 Q 289.9999999999999,610.0000000000001 289.9999999999999,600.0000000000001 L 290,560 L 289.9999999999999,520 Q 289.9999999999999,510 299.9999999999999,510 L 310,510" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="ilGKH0LIXJ0"><g><path d="M 790,620 L 790,520 Q 790,510 780,510 L 410,510" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="eoOOLehflSS"><g transform="translate(390 779.9999999999999)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(397.34375, 785.9999999999999) rotate(0, 42.65625, 44)" width="85.3125" height="88"><text text-decoration="none" x="0.15625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(()()</text><text text-decoration="none" x="85.15625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="K6NVUuYGItK"><g transform="translate(510 919.9999999999999)"><ellipse cx="59.99999999999995" cy="59.99999999999995" rx="59.99999999999995" ry="59.99999999999995" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(518.8125, 935.9999999999998) rotate(0, 51.1875, 44)" width="102.375" height="88"><text text-decoration="none" x="0.1875" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(()())</text><text text-decoration="none" x="102.1875" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="8EcmIIBxa9T"><g><path d="M 440,780 L 440,690.0000000000001 Q 440,680.0000000000001 430,680.0000000000001 L 400,680" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="PWA78JylDhm"><g><path d="M 570,920 L 570,839.9999999999999 Q 570,829.9999999999999 560,829.9999999999999 L 490,830" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="hBMIevVcphC"><g transform="translate(620 779.9999999999999)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(627.34375, 785.9999999999999) rotate(0, 42.65625, 44)" width="85.3125" height="88"><text text-decoration="none" x="0.15625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(())(</text><text text-decoration="none" x="85.15625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="e6aSbNjCBAD"><g><path d="M 670,780 L 670,680 Q 670,670 680,670 L 740,670" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="7DwUXbL1fHF"><g transform="translate(660 910)"><ellipse cx="59.99999999999995" cy="59.99999999999995" rx="59.99999999999995" ry="59.99999999999995" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(668.8125, 926) rotate(0, 51.1875, 44)" width="102.375" height="88"><text text-decoration="none" x="0.1875" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">(())()</text><text text-decoration="none" x="102.1875" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="UWevwaxUpCn"><g><path d="M 720,910 L 720,900 Q 720,890 710,890 L 660,890 L 610,890 Q 600,890 600,880 L 600,860 L 600,839.9999999999999 Q 600,829.9999999999999 610,830 L 620,830" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="44HGPEqKKIa"><g transform="translate(1060 420)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1084.40625, 426) rotate(0, 25.59375, 44)" width="51.1875" height="88"><text text-decoration="none" x="0.09375" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()(</text><text text-decoration="none" x="51.09375" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="xKt47FHdLId"><g><path d="M 1110,420 L 1110,310 Q 1110,300 1120,300 L 1160,300" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="nAbRqGiNir0"><g transform="translate(900 620)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(915.875, 626) rotate(0, 34.125, 44)" width="68.25" height="88"><text text-decoration="none" x="0.125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()((</text><text text-decoration="none" x="68.125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="VE1iRahcAoo"><g><path d="M 950,620 L 950,480 Q 950,470 960,470 L 1060,470" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="JiMqezv3xhV"><g transform="translate(1160 590)"><ellipse cx="54.99999999999999" cy="54.99999999999999" rx="54.99999999999999" ry="54.99999999999999" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1180.875, 601) rotate(0, 34.125, 44)" width="68.25" height="88"><text text-decoration="none" x="0.125" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()()</text><text text-decoration="none" x="68.125" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="hneEnUBlIVo"><g><path d="M 1215,590 L 1215,479.7411050055792 Q 1215,469.7411050055792 1205.0001107859575,469.78817630125695 L 1160,470" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="OAicqmmoEcK"><g transform="translate(990.0000000000002 750)"><ellipse cx="50" cy="50" rx="50" ry="50" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(997.3437500000002, 756) rotate(0, 42.65625, 44)" width="85.3125" height="88"><text text-decoration="none" x="0.15625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()(()</text><text text-decoration="none" x="85.15625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="hK3UvrUGQtk"><g transform="translate(1040 870)"><ellipse cx="64.9999999999999" cy="64.9999999999999" rx="64.9999999999999" ry="64.9999999999999" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1053.8125, 890.9999999999999) rotate(0, 51.1875, 44)" width="102.375" height="88"><text text-decoration="none" x="0.1875" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()(())</text><text text-decoration="none" x="102.1875" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="2MVh3GVp3Y0"><g><path d="M 1040,750 L 1040.0000000000002,680 Q 1040.0000000000002,670 1030.0000000000002,670 L 1000,670" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="lnaJUqFJlk3"><g><path d="M 1105,870 L 1105,810 Q 1105,800 1095,800 L 1090,800" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="UdEjtawCdxs"><g transform="translate(1179.9999999999998 730)"><ellipse cx="54.99999999999999" cy="54.99999999999999" rx="54.99999999999999" ry="54.99999999999999" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1192.3437499999998, 741) rotate(0, 42.65625, 44)" width="85.3125" height="88"><text text-decoration="none" x="0.15625" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()()(</text><text text-decoration="none" x="85.15625" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="vHsFcaKemN1"><g><path d="M 1235,730 L 1235,720 Q 1234.9999999999998,710 1224.9999999999998,710 L 1188,710 L 1150,710 Q 1140,710 1140,700 L 1140,678 L 1140,655 Q 1140,645 1150,645 L 1160,645" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g><g id="7jhDi7pPOCw"><g transform="translate(1249.9999999999998 859.9999999999999)"><ellipse cx="70" cy="70" rx="70" ry="70" fill="white" stroke="#7e7e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(1268.8124999999998, 885.9999999999999) rotate(0, 51.1875, 44)" width="102.375" height="88"><text text-decoration="none" x="0.1875" style="fill: #4b4b4b; font:  48pt lt_regular" y="69">()()()</text><text text-decoration="none" x="102.1875" style="fill: #4b4b4b; font:  10pt lt_regular" y="69"></text></g></g><g id="qeXLbHjCHex"><g><path d="M 1320,860 L 1319.9999999999998,795 Q 1319.9999999999998,785 1309.9999999999998,785 L 1290,785" fill="none" stroke="#7E7E7E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g></svg>
